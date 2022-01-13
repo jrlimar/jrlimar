@@ -1,5 +1,3 @@
-### Hi there 👋
-
 Welcome!!
 
 Software developer, technologies related to the .NET Framework and .NET Core platform, specialist in web development.
