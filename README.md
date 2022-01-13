@@ -1,16 +1,40 @@
 ### Hi there 👋
 
-<!--
-**jrlimar/jrlimar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome!!
 
-Here are some ideas to get you started:
+Software developer, technologies related to the .NET Framework and .NET Core platform, specialist in web development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+C# 🖤
+.NET Framework
+.NET Core
+ASP.NET MVC
+ASP.NET Core
+EF Framework
+EF Core
+SQL
+T-SQL
+MS SQL Server
+MySQL
+PostgreSQL
+Software Architecture
+Clean Architeture
+Domain Modeling
+DDD
+TDD
+SOLID
+Clean Code
+Design Patterns
+Unit Tests
+Integration Tests
+HTML / CSS / Javascript
+ES 2018+
+NodeJS
+Typescript
+Angular 2+
+React
+Vue
+Git
+Github
+Azure
+Docker
+
